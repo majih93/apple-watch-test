@@ -1,13 +1,7 @@
-//
-//  ContentView.swift
-//  watch-test Watch App
-//
-//  Created by James Ma on 2023/09/11.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    
     var body: some View {
         VStack {
             Image(systemName: "globe")
